@@ -13,3 +13,12 @@ If you know of any links or resources, that you feel are missing
 here, please create a pull request, open an issue, or contact us in our 
 public matrix channel (#coralibre:matrix.org). You can also write an 
 e-mail to <info@coralibre.com>.
+
+
+
+#### Links Regarding CoraLibre
+
+* [Website](https://coralibre.de)
+* [KanBan Board](https://github.com/orgs/CoraLibre/projects/2)
+* [Github](https://github.com/CoraLibre)
+
