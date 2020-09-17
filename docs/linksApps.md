@@ -2,8 +2,10 @@
 
 
 The following mobile apps are built on top of the google/apple exposure 
-notification system. A more complete list can be found under 
-<https://en.wikipedia.org/wiki/Exposure_Notification#Adoption>.
+notification system. More complete list can be found under:
+
+* <https://www.xda-developers.com/google-apple-covid-19-contact-tracing-exposure-notifications-api-app-list-countries/>
+* <https://en.wikipedia.org/wiki/Exposure_Notification#Adoption>
 
 
 #### CWA / Corona Warn App (Official German App)
